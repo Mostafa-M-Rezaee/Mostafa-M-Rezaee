@@ -4,8 +4,7 @@ I'm on the verge of completing my Ph.D. in data science, and starting from July 
 ---    
 
 **Let's connect**:  
-[![aaa](https://mostafa-mr.com/wp-content/uploads/2023/07/GitHub_Linkedin_Logo.jpg)](www.mostafa-mr.com)  
-
+[![LinkedIn](https://mostafa-mr.com/wp-content/uploads/2023/07/GitHub_Linkedin_Logo.jpg)](https://www.linkedin.com/in/mostafa-mr/)
 ---  
 
 **My brief CV**:    
