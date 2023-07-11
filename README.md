@@ -1,6 +1,7 @@
 **Hi there**    
-I'm on the verge of completing my Ph.D. in data science, and starting from July 2023, I've been enthusiastically sharing my data science projects and exercises with individuals eager to delve into this field.
+I'm on the verge of completing my Ph.D. in data science, and starting from July 2023, I've been enthusiastically sharing my data science projects and exercises with individuals eager to delve into this field.    
 
+---    
 **My brief CV**:    
 
 - **Data Science Ph.D. Candidate**
@@ -14,3 +15,6 @@ I'm on the verge of completing my Ph.D. in data science, and starting from July 
 - **Publications**: [30 Publications](https://scholar.google.com/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F4IU8kEHaoIXkdI8DCtulTjxG15pBj_W_YgkqjzSZ88SRWOdxlL4fdsg4SalnTvRjJwIXfiFZjdvk0sdHSxD-_3-dm2rQ&amp;user=jvcCIJYAAAAJ) including 9 Journal articles &amp; 21 full conference papers. Moreover, [6 under-preparation](https://savebirds.app/#navbarFuture) journal articles are outlined at SaveBirds. All the publications are computational studies using modeling and simulation approaches.
 
 - **Recommendations**: Please see my LinkedIn [recommendations](https://mostafa-mr.com/#Recommendations).
+---
+
+[![Linkedin](https://github.com/Mostafa-MR/Mostafa-MR/assets/16259978/5d7513e2-ed7b-45df-a277-943466ebfc0a)](mostafa-mr.com)
