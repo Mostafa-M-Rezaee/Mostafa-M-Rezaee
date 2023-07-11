@@ -1,4 +1,5 @@
-**Hi there**
+**Hi there**    
+I'm on the verge of completing my Ph.D. in data science, and starting from July 2023, I've been enthusiastically sharing my data science projects and exercises with individuals eager to delve into this field.
 
 **My brief CV**:    
 
