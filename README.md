@@ -2,6 +2,12 @@
 I'm on the verge of completing my Ph.D. in data science, and starting from July 2023, I've been enthusiastically sharing my data science projects and exercises with individuals eager to delve into this field.    
 
 ---    
+
+**Let's connect**:  
+[![Linkedin](https://github.com/Mostafa-MR/Mostafa-MR/assets/16259978/5d7513e2-ed7b-45df-a277-943466ebfc0a)](mostafa-mr.com)
+
+---  
+
 **My brief CV**:    
 
 - **Data Science Ph.D. Candidate**
@@ -16,5 +22,3 @@ I'm on the verge of completing my Ph.D. in data science, and starting from July 
 
 - **Recommendations**: Please see my LinkedIn [recommendations](https://mostafa-mr.com/#Recommendations).
 ---
-
-[![Linkedin](https://github.com/Mostafa-MR/Mostafa-MR/assets/16259978/5d7513e2-ed7b-45df-a277-943466ebfc0a)](mostafa-mr.com)
