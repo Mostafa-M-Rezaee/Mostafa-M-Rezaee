@@ -1,10 +1,9 @@
 **Hi there**    
 I'm on the verge of completing my Ph.D. in data science, and starting from July 2023, I've been enthusiastically sharing my data science projects and exercises with individuals eager to delve into this field.    
 
----    
+<a href="https://www.linkedin.com/in/mostafa-mr/"><img src="https://github.com/Mostafa-MR/Mostafa-MR/blob/main/Logo%20_%20Linkedin.jpg" /></a>    <a href="https://www.linkedin.com/in/mostafa-mr/"><img src="https://github.com/Mostafa-MR/Mostafa-MR/blob/main/Logo%20_%20Google%20Scholar.jpg" /></a>    
 
-**Let's connect**:  
-[![LinkedIn](https://mostafa-mr.com/wp-content/uploads/2023/07/GitHub_Linkedin_Logo.jpg)](https://www.linkedin.com/in/mostafa-mr/)
+
 ---  
 
 **My brief CV**:    
