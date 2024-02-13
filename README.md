@@ -8,7 +8,7 @@ I'm on the verge of completing my Ph.D. in data science, and starting from July 
 
 - **Data Science Ph.D. Candidate**
 
-- **Internship**: I did a summer internship at [Sanofi](https://www.sanofi.com/en/about-us), [Cambridge](https://jobs.sanofi.us/cambridgecrossing), MA, focusing on [Wearable Medical Devices](https://healthnews.com/family-health/healthy-living/wearable-medical-devices-used-in-healthcare/). For my project, I developed a Python package to implement multiple algorithms and run diagnostics). Data preprocessing is also covered. 
+- **Internship**: I did a summer internship at [Sanofi](https://www.sanofi.com/en/about-us), [Cambridge](https://jobs.sanofi.us/cambridgecrossing), MA, focusing on [Wearable Medical Devices](https://healthnews.com/family-health/healthy-living/wearable-medical-devices-used-in-healthcare/). For my project, I developed a Python package to implement multiple algorithms and run diagnostics. Data preprocessing is also covered. 
 
 - **SaveBirds.app**: www.SaveBirds.app is my Ph.D. project, a Data Science web application that helps manage 40,000 Protected Areas (PAs) across North America. SaveBirds fuels the [US$75 billion](https://www.usgs.gov/centers/eesc/science/north-american-breeding-bird-survey#:~:text=common%20and%20helping-,fuel%20a%20%2475%20billion%20wildlife%20watching%20industry,-.%C2%A0%C2%A0Each%20year%20thousands) wildlife-watching industry indirectly.
 
