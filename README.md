@@ -6,7 +6,7 @@ I'm on the verge of completing my Ph.D. in data science, and starting from July 
 
 ## My brief CV    
 
-- **Data Science Ph.D. Candidate**
+- **Data Science, PhD | AI Scientist**
 
 - **Internship**: I did a summer internship at [Sanofi](https://www.sanofi.com/en/about-us), [Cambridge](https://jobs.sanofi.us/cambridgecrossing), MA, focusing on [Wearable Medical Devices](https://healthnews.com/family-health/healthy-living/wearable-medical-devices-used-in-healthcare/). For my project, I developed a Python package to implement multiple algorithms and run diagnostics. Data preprocessing is also covered. 
 
